@@ -3,7 +3,6 @@
 namespace App\Controller;
 
 use App\Entity\CurrencyCodes;
-use App\Entity\IsoCodes;
 use App\Form\Type\CurrencyType;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use App\Entity\Currency;
